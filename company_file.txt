@@ -1,0 +1,10 @@
+ABC1234,Indore Gas,NaturalGas,600,LPG,640
+ABC1245,Bharath,NaturalGas,600,BioGas,450,Propane,1200
+ABC1789,HP,Methane,1300,LPG,450,Propane,1200
+XYZ1453,GAIL,Oxygen,1700,Helium,900,Argon,3000
+XYZ3456,Air Liquide India,Oxygen,10000,Hydrogen,1200,Cholrine,9000
+XYZ1567,Inox Air 
+Products,Ammonia,5000,Oxygen,10000,Argon,9000,Helium,5000ABC1267,Super 
+Gas,LPG,600,Biogas,700
+ABC1298,Super Gas,Naturalgas,500,LPG,600
+ABC1289,SuperGas,BioGas,400,Natural,500
